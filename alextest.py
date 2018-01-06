@@ -38,7 +38,7 @@ ydim = train_y.shape[1]
 #Read Image, and change to BGR
 
 
-im1 = (imread("cat.jpg")[:,:,:3]).astype(float32)
+im1 = (imread("hacked-image.png")[:,:,:3]).astype(float32)
 im1 = imresize(im1, (227, 227))
 im1 = im1 - mean(im1)
 im1[:, :, 0], im1[:, :, 2] = im1[:, :, 2], im1[:, :, 0]

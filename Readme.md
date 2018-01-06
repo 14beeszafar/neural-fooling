@@ -29,3 +29,9 @@ Follow these steps to setup development environment on your machine:
 * Haider Tariq
 * Haroon Rashid
 * Maaz Jamal
+
+## References
+
+* [Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Nguyen_Deep_Neural_Networks_2015_CVPR_paper.pdf)
+* [How to Intentionally Trick Neural Networks: A Look into the Future of Hacking](https://algotravelling.com/en/machine-learning-fun-part-8/)
+* [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
